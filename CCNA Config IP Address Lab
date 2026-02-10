@@ -1,0 +1,29 @@
+Configuring IP Addresses on a Cisco Router
+This lab is changing the IP Address and it's preconfigured with a class A, B and C Networks.
+Class A
+15.0.0.0/8
+
+Class B
+182.98.0.0/16
+
+Class C
+201.191.20.0/24
+
+Commands used
+On the router, do the following.
+
+We change the router hostname to R1.
+Router>en
+Router#conf t
+Router(config)#hostname R1
+
+Show the interfaces and the currently set IP Addresses
+R1(config)#do sh ip int brief
+All Int are down and the IP Addresses are not assigned.
+
+
+
+
+
+
+
