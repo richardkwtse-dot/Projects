@@ -50,6 +50,7 @@ R1#sh ip int brief
 
 Then check running-config
 R1#sh run
+
 <img width="456" height="491" alt="image" src="https://github.com/user-attachments/assets/4d444192-a9d9-4c82-aefc-c2cff5b769a4" />
 
 Then save the changes.
