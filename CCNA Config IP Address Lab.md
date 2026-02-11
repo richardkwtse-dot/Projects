@@ -59,15 +59,19 @@ R1#write mem
 
 Now we changes IP Address of PC1 on Class A
 Go to the PC and change the FastEthernet0 Static IP to 15.0.0.1/8
+
 <img width="682" height="472" alt="image" src="https://github.com/user-attachments/assets/b2a95e96-df87-4dc6-8948-dc6a16cfd105" />
 
 Do the same for PC2 on Class B
+
 <img width="681" height="435" alt="image" src="https://github.com/user-attachments/assets/3f528795-5db8-4c62-8962-4539b12ce8a8" />
 
 Do the same for PC3 on Class C
+
 <img width="681" height="438" alt="image" src="https://github.com/user-attachments/assets/5c376d82-bbe8-4e85-8a04-643ef0664fbc" />
 
 We can now ping PC2 and PC3 from PC1
+
 <img width="583" height="317" alt="image" src="https://github.com/user-attachments/assets/e5b19471-aaec-4243-a705-bae351d5db69" />
 <img width="573" height="322" alt="image" src="https://github.com/user-attachments/assets/9dae910a-5570-4a71-85b5-f27f62de78ca" />
 
