@@ -1,4 +1,4 @@
-Lab is for configuring interfaces on a router and two switches.
+Lab is for configuring interfaces on a router and two switches. Day 9
 
 Topology is a single LAN, 172.16.0.0/16
 
