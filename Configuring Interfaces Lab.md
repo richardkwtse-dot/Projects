@@ -4,6 +4,7 @@ Topology is a single LAN, 172.16.0.0/16
 
 <img width="639" height="266" alt="image" src="https://github.com/user-attachments/assets/233b8017-0742-4b5d-9b4b-6678b06e478b" />
 
+
 First step is to configure the Router 1.
 
 1. Changed hostname to R1
