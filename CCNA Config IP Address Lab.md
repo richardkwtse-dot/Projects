@@ -1,4 +1,4 @@
-Configuring IP Addresses on a Cisco Router
+Configuring IP Addresses on a Cisco Router, Day 8
 This lab is changing the IP Address and it's preconfigured with a class A, B and C Networks.
 Class A
 15.0.0.0/8
